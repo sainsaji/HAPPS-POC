@@ -1,6 +1,12 @@
 {
     "wifi": {
-        "wifi-ssid": "test",
-        "password": "test"
-    }
+        "wifi-ssid": "testwifi",
+        "password": "supersecretpassword"
+    },
+    "happs-config": [
+
+    ],
+    "firmware-config": [
+
+    ]
 }
